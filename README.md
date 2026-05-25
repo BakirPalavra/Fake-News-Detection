@@ -1,6 +1,7 @@
 # Fake News Detection using NLP and Machine Learning
 
 A Big Data Analytics project that detects whether a news headline is Real or Fake using Natural Language Processing (NLP), feature engineering, and supervised machine learning models.
+Application is available at https://fake-news-detection-qkohcunwgcudtqygdwqk8r.streamlit.app/
 
 ---
 
