@@ -1,10 +1,10 @@
-Fake News Detection using NLP and Machine Learning
+# Fake News Detection using NLP and Machine Learning
 
 A Big Data Analytics project that detects whether a news headline is Real or Fake using Natural Language Processing (NLP), feature engineering, and supervised machine learning models.
 
 ---
 
-Project Overview
+# Project Overview
 
 The rapid spread of fake news across digital platforms has become a major challenge in modern information ecosystems. This project develops a scalable machine learning pipeline capable of automatically classifying news headlines as either real or fake.
 
@@ -17,7 +17,7 @@ The system combines:
 
 ---
 
-Features
+# Features
 
 - Large-scale NLP dataset processing
 - Text cleaning and normalization
@@ -29,7 +29,7 @@ Features
 
 ---
 
-Dataset
+# Dataset
 
 This project uses a merged dataset constructed from two public Kaggle datasets:
 
@@ -44,7 +44,7 @@ Label convention:
 
 ---
 
-Machine Learning Models
+# Machine Learning Models
 
 The following supervised learning models were trained and evaluated:
 
@@ -56,7 +56,7 @@ The system automatically selects and saves the best-performing model.
 
 ---
 
-Technologies Used
+# Technologies Used
 
 | Category             | Technologies |
 
@@ -71,7 +71,7 @@ Technologies Used
 
 ---
 
-Feature Engineering
+# Feature Engineering
 
 In addition to TF-IDF textual features, the project extracts handcrafted metadata features including:
 
@@ -89,7 +89,7 @@ These features improve classification performance by capturing stylistic pattern
 
 ---
 
-Evaluation Metrics
+# Evaluation Metrics
 
 Models were evaluated using:
 
@@ -102,7 +102,7 @@ Models were evaluated using:
 
 ---
 
-Streamlit Deployment
+# Streamlit Deployment
 
 The project includes a Streamlit web application that allows users to input a news headline and receive an instant prediction.
 
@@ -115,7 +115,7 @@ Fake     Confidence: 54%
 
 ---
 
-Project Structure
+# Project Structure
 
 fake-news-detector/
 │
@@ -130,7 +130,7 @@ fake-news-detector/
 
 ---
 
-Future Improvements
+# Future Improvements
 
 Potential future enhancements include:
 
